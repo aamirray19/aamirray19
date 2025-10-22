@@ -100,9 +100,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aamirray19/aamirray19/blob/main/assets/pacman.yml">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aamirray19/aamirray19/blob/main/assets/pacman.yml">
-  <img alt="pacman contribution graph" src="https://github.com/aamirray19/aamirray19/blob/main/assets/pacman.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamirray19/aamirray19/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aamirray19/aamirray19/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aamirray19/aamirray19/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -113,12 +113,12 @@
 
 <div align="left">
     <a href="https://www.linkedin.com/in/mohammadaamirrayyan06/">
-        <img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50">
+        <img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/u/aamirray/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode">
     </a>
     <a href="mailto:aamirray19@gmail.com">
-        <img src="https://img.icons8.com/color/512/gmail-new.png" width="50" height="50">
+        <img src="https://img.icons8.com/color/512/gmail-new.png" width="50" height="50" alt="Email">
     </a>
 </div>
