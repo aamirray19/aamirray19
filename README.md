@@ -14,7 +14,7 @@
 ###
 
 <ul align="left">
-  <li> Deeply interested in <b>AI/ML, Agentic AI</b>, and their applications in <b>Finance and FinTech</b>, focusing on how autonomous models can enhance decision-making, trading logic, and explainability in complex systems.</li>
+  <li> Deeply interested in <b>AI/ML, Agentic AI</b>, and their applications across diverse domains, focusing on how autonomous models can enhance decision-making, logic, and explainability in complex systems.</li>
   <li> Enthusiast of <b>system design, scalability, and automation</b>, driven by the goal of creating robust, efficient, and modular software architectures.</li>
   <li> Outside of tech, I love reading fiction, exploring <b>AI creativity tools</b>, and playing football to unwind and recharge.</li>
 </ul>
