@@ -13,7 +13,11 @@
 
 ###
 
-<p align="left">💡 Deeply interested in AI/ML, Agentic AI, and their applications in Finance and FinTech, focusing on how autonomous models can enhance decision-making, trading logic, and explainability in complex systems.<br><br>⚙️ Enthusiast of system design, scalability, and automation, driven by the goal of creating robust, efficient, and modular software architectures.<br><br>📚 Outside of tech, I love reading fiction, exploring AI creativity tools, and playing football to unwind and recharge.<br><br>📧 mail: aamirray19@gmail.com</p>
+<ul align="left">
+  <li> Deeply interested in <b>AI/ML, Agentic AI</b>, and their applications in <b>Finance and FinTech</b>, focusing on how autonomous models can enhance decision-making, trading logic, and explainability in complex systems.</li>
+  <li> Enthusiast of <b>system design, scalability, and automation</b>, driven by the goal of creating robust, efficient, and modular software architectures.</li>
+  <li> Outside of tech, I love reading fiction, exploring <b>AI creativity tools</b>, and playing football to unwind and recharge.</li>
+</ul>
 
 ###
 
