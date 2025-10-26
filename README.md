@@ -122,7 +122,7 @@
     <a href="https://leetcode.com/u/aamirray/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode">
     </a>
-    <a href="mailto:aamirray19@gmail.com">
-        <img src="https://img.icons8.com/color/512/gmail-new.png" width="50" height="50" alt="Email">
-    </a>
+    <a href="mailto:aamirray19@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/512/gmail-new.png" width="50" height="50" alt="Email">
+  </a>
 </div>
