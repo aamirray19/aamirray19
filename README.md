@@ -17,9 +17,21 @@
   <li> Deeply interested in <b>AI/ML, Agentic AI</b>, and their applications across diverse domains, focusing on how autonomous models can enhance decision-making, logic, and explainability in complex systems.</li>
   <li> Enthusiast of <b>system design, scalability, and automation</b>, driven by the goal of creating robust, efficient, and modular software architectures.</li>
   <li> Outside of tech, I love reading fiction, exploring <b>AI creativity tools</b>, and playing football to unwind and recharge.</li>
+  <li> 📧 <a href="mailto:aamirray19@gmail.com">aamirray19@gmail.com</a></li>
 </ul>
 
 ###
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/mohammadaamirrayyan06/">
+        <img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn">
+    </a>
+    <a href="https://leetcode.com/u/aamirray/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode">
+    </a>
+</div>
+
+##
 
 <h2 align="left">Tech Stack</h2>
 
@@ -122,7 +134,4 @@
     <a href="https://leetcode.com/u/aamirray/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode">
     </a>
-    <a href="mailto:aamirray19@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/512/gmail-new.png" width="50" height="50" alt="Email">
-  </a>
 </div>
