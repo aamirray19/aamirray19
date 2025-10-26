@@ -22,17 +22,6 @@
 
 ###
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/mohammadaamirrayyan06/">
-        <img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn">
-    </a>
-    <a href="https://leetcode.com/u/aamirray/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode">
-    </a>
-</div>
-
-##
-
 <h2 align="left">Tech Stack</h2>
 
 ###
