@@ -17,7 +17,7 @@
   <li> Deeply interested in <b>AI/ML, Agentic AI</b>, and their applications across diverse domains, focusing on how autonomous models can enhance decision-making, logic, and explainability in complex systems.</li>
   <li> Enthusiast of <b>system design, scalability, and automation</b>, driven by the goal of creating robust, efficient, and modular software architectures.</li>
   <li> Outside of tech, I love reading fiction, exploring <b>AI creativity tools</b>, and playing football to unwind and recharge.</li>
-  <li> 📧 <a href="mailto:mohaamirray6@gmail.com">aamirray19@gmail.com</a></li>
+  <li> 📧 <a href="mailto:mohaamirray6@gmail.com">mohaamirray6@gmail.com</a></li>
 </ul>
 
 ###
